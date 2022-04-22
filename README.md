@@ -11,5 +11,5 @@ The real datasets includes:
 
 ## Usage
 1. compile: cd src; make;
-2. run: cd executable; ./run.out dataset NumberofCategories k is2D (e.g. "./run.out anti_6_100_skyline.txt 1 10 0" for high dimensional datasets, "./run.out anti_2_100_skyline.txt 1 5 1" for the 2D datasets);
+2. run: cd executable; ./run.out dataset NumberofCategories k is2D (e.g. "./run.out anti_6_100_skyline.txt 1 10 0" for the high dimensional datasets, "./run.out anti_2_100_skyline.txt 1 5 1" for the 2D datasets);
 3. The results are in the folder "results".
