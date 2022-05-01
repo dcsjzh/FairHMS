@@ -37,6 +37,8 @@ Then you should end up with the following files:
 
 - `result/`: Is used to store results that algorithms output.
 
+- `utils/`: Contains our utility functions sampled under different dimensions.
+
 - `src/`: Contains the `C++` implementation of all algorithms.
 
 Assuming that you followed the instructions above, in order to run the algorithms, you need to execute the following steps:
@@ -59,7 +61,6 @@ e.g., for two-dimensional dataset:
 	
 c. Output
 	The output will be stored in the folder `result`.
-
 
 
 
