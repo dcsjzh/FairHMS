@@ -1,4 +1,4 @@
-#Fair Happiness Maximizing Sets - FairHMS
+# Fair Happiness Maximizing Sets - FairHMS
 
 This repository contains source codes in our paper "Happiness Maximizing Sets under Group Fairness Constraints" which introduces a 2-dimensional exact algorithm (INTCOV) and two multi-dimensional bicriteria approximation algorithms (BIGREEDY and BIGREEDY+) for the fair happiness maximization set (FairHMS) problem. In our experiments, we implemented our proposed algorithms in C++. In addition all baseline algorithms we evaluated in our experiments are also available online. Please refer to https://users.cs.duke.edu/~ssintos/kRMS_SEA/ for the implementation of eps-Kernel, Greedy, and HittingSet(HS); and https://www.cse.ust.hk/~raywong/code/sigmod18-sphere.zip for the implementation of DMM and Sphere.
 
