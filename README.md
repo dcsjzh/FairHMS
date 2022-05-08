@@ -44,20 +44,26 @@ Then you should end up with the following files:
 Assuming that you followed the instructions above, in order to run the algorithms, you need to execute the following steps:
 
 a. Compilation
+
 	cd src
 	make
 
 b. Execution
+
 	cd ../executable
 
 Follow the command format below, you could run all algorithms with a specific number of categories, a specific k on the dataset and a 2D dataset flag is2D.
+
 	./run.out dataset k is2D 
 
 e.g., for high-dimensional dataset:
+
 	./run.out adultSky.txt 10 0
 
 e.g., for two-dimensional dataset:
+
 	./run.out anti_2_10000_skyline.txt 5 1
 	
 c. Output
+
 	The output will be stored in the folder `result`.
